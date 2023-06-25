@@ -1,0 +1,7 @@
+Write a function that takes a list of cartesian co-ordinates (x,y) and returns the numbers of squares formed by
+these co-ordinates
+a square should have its four corners amongst the co-ordinates to be counted as a square. Only squares whos
+sides are parallel to the x and y axes to be considered
+sample input = coordinates = [ [0,0],[0,1],[1,1][1,0], [2,1][2,0],[3,1],[3,0] ]
+try and get the optimum big O notation (considering the worst case) and mention the reason for the same in
+a comment.
